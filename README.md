@@ -1,1 +1,1 @@
-# vscode-python-template-conda
+# vscode-python-conda-template
